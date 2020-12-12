@@ -36,17 +36,17 @@ Any set of hap.py runs can be plotted like this using the script [run_rocplot.Rs
 #### WGS benchmark Result
 
 **SNVs**
-<img src = "https://github.com/YenlingPeng/Germline_Benchmark/blob/master/WGS_benchmark/rocplot/WGS_benchmark_hg38_HG001.SNP.png" alt="Github" title="SNVs" width="250" height="400" />
+![SNVs](https://github.com/YenlingPeng/Germline_Benchmark/blob/master/WGS_benchmark/rocplot/WGS_benchmark_hg38_HG001.SNP.png)
 
 **INDELs**
-<img src = "https://github.com/YenlingPeng/Germline_Benchmark/blob/master/WGS_benchmark/rocplot/WGS_benchmark_hg38_HG001.INDEL.png" alt="Github" title="INDELs" width="250" height="400" /> 
+![INDELs](https://github.com/YenlingPeng/Germline_Benchmark/blob/master/WGS_benchmark/rocplot/WGS_benchmark_hg38_HG001.INDEL.png)
 
 #### WES benchmark Result
 
 **SNVs**
- <img src = "https://github.com/YenlingPeng/Germline_Benchmark/blob/master/WES_benchmark/rocplot/WES_benchmark_hg38_HG001.SNP.png" alt="Github" title="SNVs" width="250"height="400" /> 
+![SNVs](https://github.com/YenlingPeng/Germline_Benchmark/blob/master/WES_benchmark/rocplot/WES_benchmark_hg38_HG001.SNP.png)
 
 **INDELs**
- <img src = "https://github.com/YenlingPeng/Germline_Benchmark/blob/master/WES_benchmark/rocplot/WES_benchmark_hg38_HG001.INDEL.png" alt="Github" title="INDELs" width="250" height="400" /> 
+![INDELs](https://github.com/YenlingPeng/Germline_Benchmark/blob/master/WES_benchmark/rocplot/WES_benchmark_hg38_HG001.INDEL.png)
 
 
