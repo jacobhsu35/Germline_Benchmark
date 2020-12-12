@@ -1,0 +1,6 @@
+DRAGEN_v3.4 /work2/u00srx00/DRAGEN/Pipeline_compare/hg38/HG001_S1_L004_hg38/Dragen_HG001_S1_L004_hg38.hard-filtered.vcf.gz
+DRAGEN_v3.6 /work2/lynn88065/Dragen/Outputs/Benchmark/NHRI_HG001/WGS/hg38/v3.6.3/NHRI_NA12878_HG001_hg38/Dragen_NHRI_NA12878_HG001_hg38.hard-filtered.vcf.gz
+GATK_v3.6 /project/GP1/u3710062/AI_SHARE/shared_scripts/GATK_3.6/20200214_PanelPipForWGS/HG001/HG001_20200214_bwamem.filtered.haplotype.SnpIndel.vcf.gz
+GATK_v4.1 /work2/lynn88065/GATK/Outputs/20201209_WGS_benchmark/NHRI_NA12878_HG001/NHRI_NA12878_HG001.bwamem.marked.recal.pass1.indexed.filtered.haplotype.SnpIndel.vcf.gz
+Nvidia_Parabricks /work2/lynn88065/Rawdata/20201209_Nvidia_Parabricks/ILMN_hg38/WGS/output_wgs_illuminahg38.vcf
+WASAI_LightningPlus /project/GP1/jeff1wasai/nhri/na12878/wgs/NHRI_NA12878_ILMN_hg38/NHRI_NA12878_ILMN_hg38.vcf.gz
