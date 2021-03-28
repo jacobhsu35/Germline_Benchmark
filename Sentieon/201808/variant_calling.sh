@@ -7,6 +7,8 @@
 #PBS -M jacobhsu@connect.hku.hk
 #PBS -m a
 #PBS -j oe
+#### Date: 20210328
+# This is the identical pipeline for TWB 1496 cohort and seven GIAB samples
 
 #/project/GP1/u3710062/AI_SHARE/GATK/Inputs/20200528_GIAB/SAMPLE_NAME_plus.R1.fastq
 
